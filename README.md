@@ -11,7 +11,8 @@ I am a software engineer with more than 15 years of experience.
 
 ### Languages and Tools:
 
-
+```html
+<div style="background-color: #FFFFFF; padding: 20px;">
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" />
@@ -23,7 +24,8 @@ I am a software engineer with more than 15 years of experience.
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jquery.svg" />
-
+</div>
+```
 <br />
 <br />
 
