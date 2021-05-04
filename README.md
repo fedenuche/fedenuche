@@ -4,7 +4,6 @@
 
 I am a software engineer with more than 15 years of experience.
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning Clean Architecture
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess
@@ -29,3 +28,10 @@ I am a software engineer with more than 15 years of experience.
 <br />
 
 ---
+
+### Latest Courses:
+
+- Google: Using Python to Interact with the Operating System.
+- Google: Troubleshooting and Debugging Techniques.
+- Google: Configuration Management and the Cloud.
+- Google: Automating Real-World Tasks with Python.
