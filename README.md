@@ -2,7 +2,8 @@
 
 ## About Me
 
-- :muscle: I am a software engineer with more than 15 years of experience.
+- :muscle: I am a software engineer with more than 15 years of experience working in web environment.
+- :nerd_face: I have more than 10 years working with E-learning and platforms like [Moodle](https://moodle.org/)
 - 🌱 I’m currently learning Clean Architecture
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess
