@@ -3,10 +3,10 @@
 ## About Me
 
 - :muscle: I am a software engineer with more than 15 years of experience working in web environment.
-- :nerd_face: I have more than 10 years working with E-learning and platforms like [Moodle](https://moodle.org/)
-- 🌱 I’m currently learning Clean Architecture
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess
+- :nerd_face: I have more than 12 years working with E-learning and platforms like [Moodle](https://moodle.org/).
+- 🌱 I’m currently learning Clean Architecture and Hexagonal Architecture.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to play chess and BJJ.
 
 
 ### Languages and Tools:
@@ -25,6 +25,10 @@
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wordpress.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/laravel.svg" />
+<img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" />
+<img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
+<img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gitlab.svg" />
+<img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bitbucket.svg" />
 
 
 <br />
