@@ -29,7 +29,16 @@ I am a software engineer with more than 15 years of experience.
 <br />
 <br />
 
+
+
 ---
+### Education:
+
+- 1999 -2004 National Technologic University (Universidad Tecnológica Nacional) System engineer.
+- 1999 -2003 National Technologic University (Universidad Tecnológica Nacional) System Analyst.
+
+<br />
+<br />
 
 ### Latest Courses:
 
