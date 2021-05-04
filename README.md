@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to play chess and BJJ.
 
 
-### Languages and Tools:
+### Programming Languages and Tools:
 
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/php.svg" />
 <img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
@@ -43,11 +43,14 @@
 - 1999 -2004 National Technologic University (Universidad Tecnológica Nacional) System engineer.
 - 1999 -2003 National Technologic University (Universidad Tecnológica Nacional) System Analyst.
 
-<br />
-
-### Latest Courses:
+#### Latest Courses:
 
 - Google: Using Python to Interact with the Operating System.
 - Google: Troubleshooting and Debugging Techniques.
 - Google: Configuration Management and the Cloud.
 - Google: Automating Real-World Tasks with Python.
+
+#### Languages:
+
+- Spanish (native).
+- English.
